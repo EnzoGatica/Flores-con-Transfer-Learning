@@ -22,8 +22,6 @@ El dataset `tf_flowers` contiene **5 categorías**:
 - Girasol (`sunflowers`)
 - Rosa (`roses`)
 
-> ⚠️ El dataset presenta **desequilibrio de clases** (más imágenes de girasoles que de tulipanes, por ejemplo).
-
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -87,7 +85,6 @@ El dataset `tf_flowers` contiene **5 categorías**:
 - El modelo aprende rápidamente (más del 90% de precisión desde la época 2)
 - Algunos errores ocurren entre clases visualmente similares (ej: margarita vs tulipán)
 
-> 📌 **Tú puedes insertar aquí una imagen de las curvas de entrenamiento**  
 > ![Curvas de entrenamiento](assets/training_curves.png)
 
 ---
